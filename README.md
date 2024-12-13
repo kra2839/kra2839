@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm 김란아! <img src ="https://github.com/images/mona-whisper.gif" width="62" height="62"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0040FF&width=435&lines=Hi%2C+I'm+김란아!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0040FF&width=435&lines=Hi%2C+Welcome+to+란아's+world!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ![Banner](banner.jpg)
 
-<p>Welcome to my page! </br> Welcome to 란아's world !!!!, Student from Dongyang Mirae Univ. <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> <b>Seoul, Korea</b>, currently living in <img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20"/> <b>Seoul, Korea</b>. </p>
+<p>Welcome to my page! </br> I'm 김란아!, Student from Dongyang Mirae Univ. <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> <b>Seoul, Korea</b>, currently living in <img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20"/> <b>Seoul, Korea</b>. </p>
 
 ---
 
