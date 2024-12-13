@@ -11,28 +11,15 @@
 ## 🔧 Tools & Technologies
 ![VS Code](https://img.shields.io/badge/VSCode-Preferred-lightblue?style=for-the-badge&logo=visual-studio-code)
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Intermediate-orange?style=for-the-badge&logo=jupyter)
 
 ---
 
-## 🚀 Featured Projects
-- [**Dongyang Mirae**](https://github.com/EunSeong-Jo/DMU) : Things I learned in college.
-- [**Open Source Software assignment**](https://github.com/EunSeong-Jo/QB-OSS-WhyGroup) : Open source software project with the Why-Group team.
 
----
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EunSeong-Jo&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunSeong-Jo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![GitHub Contributions Chart](https://github-contributions-chart.vercel.app/api?username=EunSeong-Jo)](https://github.com/sallar/github-contributions-chart) -->
-
-![Visitor Count](https://komarev.com/ghpvc/?username=EunSeong-Jo&style=flat-square&color=blue)
-
----
 
 ## 🌱 About Me
-- 🌍 I'm passionate about exploring the intersection of technology and creativity.
-- 🎵 I enjoy listening to Rock & POP.
+- 🌍 I'm student!!
+- 🎵 I enjoy listening to K-POP.
 - ✈️ Love traveling and capturing moments.
 
 ---
